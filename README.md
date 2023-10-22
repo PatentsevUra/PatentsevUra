@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello! My name is Yuri, and I am currently a student aspiring to become a software developer. I am passionate about technology and enjoy exploring the world of coding and software development. I find immense satisfaction in solving complex problems and creating innovative solutions. Currently, I am pursuing my studies, honing my skills, and working towards my goal of becoming a proficient programmer.
+
 <!--
 **PatentsevUra/PatentsevUra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
